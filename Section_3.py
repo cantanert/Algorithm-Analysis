@@ -8,9 +8,9 @@ print()
 for i in range(2000):
     my_L_1.append(str(i+1) + ".test")
     if(size_1 != sys.getsizeof(my_L_1)):
-        print("Dizi yer değiştirdi" , end=" ~~ ")
+        print("dizi yer değiştirdi" , end=" ~~ ")
         size_1 = sys.getsizeof(my_L_1)
-        print("Size: " , size_1)
+        print("size: " , size_1)
 
 
 #başlangıç boyutu : 64
