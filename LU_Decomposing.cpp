@@ -1,6 +1,3 @@
-// CPP Program to decompose a matrix into
-// lower and upper traingular matrix
-
 // LU AYRIŞTIRMASI, alt üçgensel & üst üçgensel
 #include <bits/stdc++.h>
 using namespace std;
