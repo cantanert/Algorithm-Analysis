@@ -26,11 +26,12 @@
         self.memo[n] = result
 
         return result
+      
 //        >>> Fibber().fib(5)
-//computing fib(5)
-//computing fib(4)
-//computing fib(3)
-//computing fib(2)
-//grabbing memo[2]
-//grabbing memo[3]
-//5
+//        computing fib(5)
+//        computing fib(4)
+//        computing fib(3)
+//        computing fib(2)
+//        grabbing memo[2]
+//        grabbing memo[3]
+//        5
